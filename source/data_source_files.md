@@ -4,5 +4,5 @@
 
 Data source files: 
 
-* [EEA_AirQua_Stations_ES_DataExtract.csv.zip]: EEA Air Quality Measurements  metadata for Stations in Spain
+* [EEA_AirQua_Stations_ES_DataExtract.csv.zip](EEA_AirQua_Stations_ES_DataExtract.csv.zip): EEA Air Quality Measurements  metadata for Active Stations in Spain
 
